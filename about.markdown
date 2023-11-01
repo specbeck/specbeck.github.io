@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, this is Saransh Sood, aka specbeck. I am a human wandering on planet earth, completely oblivious about the world. This is a place to put/collect ideas which give me the food for thought everytime I think about them, hehe. The topics I like to talk are all science, but ocassionly human psychology takes its toll on me too and it becomes very hard to ignore those thoughts too. If you ended up here somehow, please do say hello :).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I like playing games, learning new stuff about the world and crafting wierd stuff that inspire me.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find me anywhere on my socials, or either send me an email right away (yes I do check my mail everyday)
 
+Also, AI is scary :X
 
-[jekyll-organization]: https://github.com/jekyll
+P.S. Many people ask me why `specbeck`? I just happen to craft that name on a random day, means nothing in particular, but inspired by my glasses.
