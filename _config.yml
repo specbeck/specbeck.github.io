@@ -31,7 +31,7 @@ timezone: Asia/Kolkata
 
 
 # Build settings
-theme: hacker
+theme: minima
 plugins:
   - jekyll-feed
 
