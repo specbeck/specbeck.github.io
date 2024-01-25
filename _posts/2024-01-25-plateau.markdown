@@ -3,6 +3,9 @@ layout: post
 title:  "The AI Plateau"
 categories: jekyll update, AI
 ---
+
+_Disclaimer: This could be absolute BS cause I do not know of the depth of stuff. If you're looking for some story or narration, welcome; but if you seek the technical details, I suggest you to look someplace else. Also, if you're all set to read anyways, you're advised to take everything as a grain of salt and not take any of the information for granted._
+
 Bit of a backstory, past year might have been full of AI models left right and center, but this year feels different. Is GPT-4 the limit? Are other models even that good? What's the deal with Gemini and big tech cuffing people to work for them for such high risk and reward? And, biggest of them all, is AGI even achievable at this point, or it has been and will be an mirage all the way ahead?
 
 ### My timeline of AI events (very rough)
@@ -29,5 +32,3 @@ And when I see a headline like the one above at the top of my monday (all-things
 Now, I'm well aware that better models need better and more data to be better at what they do, but what I'm implying is should we be aware of the limit to all of this, as is the case with anything else?
 
 All we can hope for is, put in more compute and someday the math will check itself out.
-
-_P.S. This could be absolute BS cause I do not know of the depth of stuff._
