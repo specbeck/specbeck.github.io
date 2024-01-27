@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello, World!"
 date:   2023-10-31 22:56:29 +0530
-categories: jekyll update
 ---
 Hey to the person reading this. Hope you're doing good. This is my first blog ever to be posted on the internet (I finally mustered up the courage to open up a blog). I've been thinking about doing this for a long-long time now, and put my thoughts somewhere for me to reflect and recollect or for some stranger to ponder upon while they randomly end up here, which is extremely rare!
 
