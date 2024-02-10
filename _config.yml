@@ -29,14 +29,12 @@ github_username: specbeck
 author: Saransh Sood
 timezone: Asia/Kolkata
 
-
 # Build settings
 theme: minima
-minima: 
-  skin: dark
+minima:
+  skin: auto
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
