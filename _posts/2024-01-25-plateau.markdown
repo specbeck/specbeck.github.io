@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "The AI Plateau"
-categories: AI, LLMs, Narration
+category: technology
+tags: AI, LLMs, Narration
 ---
 
 _Disclaimer: This could be absolute BS because I do not know of the depth of stuff. If you're looking for some story or narration, welcome; but if you seek the technical details, I suggest you to look someplace else. Also, if you're all set to read anyways, you're advised to take everything as a grain of salt and not take any of the information for granted._

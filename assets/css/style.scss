@@ -1,5 +1,19 @@
 @import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
+  "minima/skins/{{ site.minima.skin | default: 'auto' }}",
   "minima/initialize";
 
 @import "{{ site.theme }}";
+
+.current {
+  color: white;
+  text-shadow: 
+  -3px 0px 10px #FFF,
+  3px 0px 10px #FFF,
+  0px 0px 10px #FFF,
+  -3px -3px 10px #FFF,
+  3px -3px 10px #FFF,
+  0px -3px 10px #FFF,
+  -3px 3px 10px #FFF,
+  3px 3px 10px #FFF,
+  0px 3px 10px #FFF;
+}
