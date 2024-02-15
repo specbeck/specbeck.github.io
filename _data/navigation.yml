@@ -1,6 +1,8 @@
 - name: Home
   link: /
-- name: About
-  link: /about.markdown
 - name: Zines
   link: /zines.markdown
+- name: Quotes
+  link: /quotes.md
+- name: About
+  link: /about.markdown
