@@ -1,8 +1,10 @@
 ---
-layout: base
+layout: page
 title: liners
 permalink: /liners/
 ---
+
+## Liners
 
 Sometimes I form up some interesting one-liners in conversations, which are quirky and worth listing somewhere :P
 
