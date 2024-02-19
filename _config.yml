@@ -22,7 +22,7 @@ title: specbeckz space
 email: sscancode07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Specbeckz digital space, where thoughts flow and provoke neverending curiousity to learn more
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://specbeck.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Physicsworm
 github_username: specbeck
@@ -33,8 +33,8 @@ timezone: Asia/Kolkata
 theme: minima
 minima:
   skin: auto
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
