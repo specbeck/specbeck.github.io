@@ -22,8 +22,8 @@ title: specbeckz space
 email: sscancode07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Specbeckz digital space, where thoughts flow and provoke neverending curiousity to learn more
-baseurl: "https://specbeck.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://specbeck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Physicsworm
 github_username: specbeck
 author: Saransh Sood
