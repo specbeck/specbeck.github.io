@@ -18,6 +18,8 @@ Everything else mentioned below are just humans playing around with stuff till t
 
 #### Artifical Intelligence
 
+AI has ultimate manifestation of the human potential and hence is on its own a great example of what human brain holds. But as intelligence being other than the human one at stake, it holds even greter potential of surpassing human intelligence.
+
 #### Rust (The programming language)
 
 #### Music
