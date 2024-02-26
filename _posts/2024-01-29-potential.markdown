@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Potential [WIP]"
+title: "Potential"
 category: philosphy
 tags: bird-eye, simplified, abstract
 ---
@@ -18,8 +18,18 @@ Everything else mentioned below are just humans playing around with stuff till t
 
 #### Artifical Intelligence
 
-AI has ultimate manifestation of the human potential and hence is on its own a great example of what human brain holds. But as intelligence being other than the human one at stake, it holds even greter potential of surpassing human intelligence.
+AI has ultimate manifestation of the human potential and hence is on its own a great example of how much potential the human brain brings to the table. But as intelligence being other than the human one at stake, it holds even greter potential of surpassing the latter. Moral dilemma also follows as a result of the enormous potential this very thing holds: Do we really need such super intelligent machines in the first place? 
 
 #### Rust (The programming language)
 
+Rust, the programming language that's been rated heavily as in developer experience, is truly one of kind. Safety is the one word usually associated with Rust, and if someone goes really deep to its roots, it really shows how it makes your programs and your code, safe. The very core of Rust is designed with such intricate memory considerations and complier strictness that it nearly becomes impossible to cause memory leakages without the complier complaining about the same. It achieves this by adding some potentially cool features on top of the already existing languages. The main takeaway here is that the potential that this language holds to revolutionize software all around the globe is like no other.
+
+
 #### Music
+
+_Music can't hold any potential can it?_ Hear me out on this one cause music that your brain, body and soul loves can do wonders. At the very surface it's just different frequency sound waves doing wiggly stuff together, going high or going low. But the amount of variations in these very waves makes a genre what it is. Potentially speaking, the type of music you listen to makes all the difference but any kind of music has the potential to illicit really powerful neural impulses. Just put on some music and you're good to go!
+
+
+#### Concluding remarks
+
+Again, if you totally indulge yourselves in finding potential in anything, you will find some feature or capability that in turn reflects in the thing's actual potential. Everything and anything has potential and it's a cascading effect throughout generations and civilizations.
